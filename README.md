@@ -44,7 +44,7 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+https://github.com/Sreeraj77/useless_project_cloud_404/blob/main/Screenshot%202025-08-09%20060932.png(Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
