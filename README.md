@@ -44,10 +44,10 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-https://github.com/Sreeraj77/useless_project_cloud_404/blob/main/Screenshot%202025-08-09%20060932.png(Add screenshot 1 here with proper name)
+https://github.com/Sreeraj77/useless_project_cloud_404/blob/main/Screenshot%202025-08-09%20060932.png(HTML Code page)
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+https://github.com/Sreeraj77/useless_project_cloud_404/blob/main/Screenshot%202025-08-09%20060948.png(Java Script code page)
 *Add caption explaining what this shows*
 
 ![Screenshot3](Add screenshot 3 here with proper name)
