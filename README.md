@@ -4,41 +4,38 @@
 # [Project Name] 🎯
 
 
-## Basic Details
+## Basic Detail
 ### Team Name: [Name]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
+- Team Lead: [Sreeraj V K] - [Jyothi Engineering College]
+- Member 2: [Advait N] - [Jyothi Engineering college]
 - Member 3: [Name] - [College]
 
 ### Project Description
-[2-3 lines about what your project does]
+Pet Audio Translator is a totally fake but hilarious web app that “translates” your pet’s barks, meows, or moos into absurd, over-dramatic text. Upload any animal sound and watch it pretend to decode their deepest (and most ridiculous) thoughts.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+To talk with our pets but the communication is only one way.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+We read any audio and we have given a dozen of translations about it..... so randomly any conversion is read by the user
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- HTML
+- CSS
+- JavaScript
+- Chtagpt, image generate AI
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+
 
 ### Implementation
-For Software:
+For Software: 
 # Installation
-[commands]
+[commands] C
 
 # Run
 [commands]
