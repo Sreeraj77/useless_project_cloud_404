@@ -50,7 +50,7 @@ https://github.com/Sreeraj77/useless_project_cloud_404/blob/main/Screenshot%2020
 https://github.com/Sreeraj77/useless_project_cloud_404/blob/main/Screenshot%202025-08-09%20060948.png(Java Script code page)
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+https://github.com/Sreeraj77/useless_project_cloud_404/blob/main/Screenshot%202025-08-09%20061012.png(Output page)
 *Add caption explaining what this shows*
 
 # Diagrams
@@ -78,15 +78,15 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/drive/folders/1oE-d_aNgurAS0B42uLIhRP45GQwzc26f
+The video is demonstrating the working of our project that if we upload a pre recorded of any pet it may show any absurd translation which is completely not relevant.
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
+- [Sreeraj V K]: [HTML, JavaScript coding]
+- [Advait N]: [CSS coding, uploading in github]
 - [Name 3]: [Specific contributions]
 
 ---
